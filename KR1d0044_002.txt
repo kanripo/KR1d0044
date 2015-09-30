@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮經本義
-#+DATE: 2015-09-23 09:37:52
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:09:30.771463
+#+PROPERTY: ID KR1d0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0044_WYG_002-1a>¶
 欽定四庫全書¶
 　禮經本義卷二¶
@@ -542,4 +544,3 @@
 　¶
 　¶
 　禮經本義卷二¶
-
